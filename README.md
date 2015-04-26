@@ -25,7 +25,8 @@ Click "Go Calculate!" and find out where you stand on the amount of calories bur
   image file
 
 Access the application here: http://mintmintt.shinyapps.io/DDPAssignment
-Access the documentation here:
+Access the documentation here in Rpres file: mintmintt-DevDataPdts.github.io/DDPAssignment/index.Rpres
+
 
 
 
