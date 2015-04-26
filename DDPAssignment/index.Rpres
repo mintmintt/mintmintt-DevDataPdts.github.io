@@ -1,8 +1,6 @@
 
 ========================================================
 
-
-
 date: 25 April 2015
 
 
@@ -58,7 +56,6 @@ a height of 180 cm, your BMR is 1691.47.
 
 ========================================================
 
-
 Once you know your BMR, you can easily calculate many other things, such as 
 your total caloric needs for your individual daily activity type.
 
@@ -71,3 +68,4 @@ Extremely Active
 
 With BMR, you will have the necessary information regarding how much calories 
 you need to consume if you want to lose weight.
+
