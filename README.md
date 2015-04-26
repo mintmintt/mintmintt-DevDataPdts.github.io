@@ -24,7 +24,7 @@ Click "Go Calculate!" and find out where you stand on the amount of calories bur
   html file
   image file
 
-Access the application here:
+Access the application here: http://mintmintt.shinyapps.io/DDPAssignment
 Access the documentation here:
 
 
